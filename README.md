@@ -1,0 +1,2 @@
+# Auto_Backup_Tools
+使用Autorun工具，FreeFileSync文件备份工具，以及自己编写的bat，vbs脚本实现插入U盘到自动同步指定的文件到U盘中
